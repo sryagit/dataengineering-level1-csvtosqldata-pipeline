@@ -1,0 +1,5 @@
+OrderID,Date,Customer,Amount
+1001,2025-07-01,Alice,250
+1002,2025-07-02,Bob,300
+1003,2025-07-03,Charlie,150
+1004,2025-07-04,Alice,200
